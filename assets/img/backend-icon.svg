@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="44px" viewBox="0 0 35 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>db</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Landing" transform="translate(-924.000000, -604.000000)" stroke="#FFFFFF" stroke-width="1.5625">
+            <g id="Section-skills" transform="translate(292.000000, 424.000000)">
+                <g id="content" transform="translate(0.000000, 162.000000)">
+                    <g id="Col-R" transform="translate(443.000000, 0.000000)">
+                        <g id="icon" transform="translate(166.000000, 0.000000)">
+                            <g id="db" transform="translate(19.000000, 15.000000)">
+                                <path d="M37.8125,8.6875 C37.8125,11.2757812 30.8984375,13.375 21.40625,13.375 C11.9140625,13.375 5,11.2757812 5,8.6875 C5,6.09921875 11.9140625,4 21.40625,4 C30.8984375,4 37.8125,6.09921875 37.8125,8.6875 L37.8125,8.6875 Z" id="Path"></path>
+                                <path d="M37.8125,9 L37.8125,19.9375 C37.8125,22.5257813 30.8984375,24.625 21.40625,24.625 C11.9140625,24.625 5,22.5257813 5,19.9375 L5,9" id="Path"></path>
+                                <path d="M37.8125,30 L37.8125,40.9375 C37.8125,43.5257813 30.8984375,45.625 21.40625,45.625 C11.9140625,45.625 5,43.5257813 5,40.9375 L5,30" id="Path"></path>
+                                <path d="M37.8125,20 L37.8125,30.9375 C37.8125,33.5257813 30.8984375,35.625 21.40625,35.625 C11.9140625,35.625 5,33.5257813 5,30.9375 L5,20" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
