@@ -1,10 +1,10 @@
 //update this with your $form selector
 
 let form_id = "contact-form";
-let username = "Meng Lang";
-let avatar = "avata.png";
-let email = "kcaribou0428@gmail.com";
-let skypeid = "live:.cid.780cac95e9ef84d8";
+let username = "Yuriy Savin";
+let avatar = "avata.jpg";
+let email = "fstorm707@gmail.com";
+let skypeid = "live:.cid.f07bf8935886b420";
 var sendButton = $("#btnsend");
 var $form = $("#" + form_id);
 
